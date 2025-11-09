@@ -25,8 +25,10 @@ public class Bus {
     public void setPlaca(String placa) {
         this.placa = placa;
     }
-    
-  
-   
 
+    @Override
+    public String toString() {
+        return "Bus{" + "placa=" + placa + '}';
+    }
+    
 }
