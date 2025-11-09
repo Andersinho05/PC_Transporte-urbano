@@ -26,7 +26,7 @@ public class Bus {
         this.placa = placa;
     }
     
-  
+   System.out.println("Ander como vas con el trabajo");
    
 
 }
