@@ -13,6 +13,18 @@ public class Bus {
 
     public Bus() {
     }
+
+    public Bus(String placa) {
+        this.placa = placa;
+    }
+
+    public String getPlaca() {
+        return placa;
+    }
+
+    public void setPlaca(String placa) {
+        this.placa = placa;
+    }
     
   
    
