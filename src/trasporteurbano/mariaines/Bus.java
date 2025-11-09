@@ -30,5 +30,7 @@ public class Bus {
     public String toString() {
         return "Bus{" + "placa=" + placa + '}';
     }
+
+ System.out.println("Ander como vas con el trabajo !!!! ");
     
 }
